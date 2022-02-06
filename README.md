@@ -1,2 +1,6 @@
-# error-propagation-formula-in-physics-textbooks-is-wrong
-The code I'm using in the video
+# the-two-error-propagation-formulas-in-physics-textbooks
+The code I'm using in the video: 
+
+TBD.
+
+
